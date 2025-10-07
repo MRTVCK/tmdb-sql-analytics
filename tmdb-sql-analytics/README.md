@@ -15,6 +15,12 @@ Designed a full data pipeline from raw CSV ingestion to cleaned, normalized rela
 3. **Normalization:** Parsed JSON fields into separate relational tables (`movie_genres`, `movie_cast`, `movie_crew`).
 4. **Analysis:** Wrote complex SQL queries to generate insights.
 
+### Raw Data
+The TMDB 5000 dataset (movies and credits CSVs) used for this analysis.
+Original source: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+(Not uploaded due to file size limits.)
+
+
 ### Insights
 | Question | Description |
 | Most Profitable Genres | Action and Adventure lead with avg profit over \$150M |
